@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j-ritzhaupt
 - 👀 I’m interested in software development, technology, and gaming.
 - 🌱 I’m currently learning ReactJS and Python
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m looking to collaborate on nothing at the moment. Currently working on personal projects.
 - 📫 How to reach me jacobritzhaupt@gmail.com or Retr0#7446 on Discord.
 
 <!---
